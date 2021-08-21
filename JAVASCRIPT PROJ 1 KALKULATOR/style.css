@@ -1,0 +1,191 @@
+body{
+    background: #1c1c1c;
+}
+.judul{
+    color: white;
+    border: 5px outset cyan ;
+    padding: 5px;
+    
+}
+
+.option{
+    float: left;
+    
+}
+
+.option li{
+    display: inline-block;
+    margin: 5px;
+    
+}
+
+.option li a{
+    color: white;
+    text-decoration: none;
+    font: 15px;
+    border: 2px cyan solid;
+    background: #130b47;
+    padding: 5px;
+}
+
+.option li a:hover{
+    color: black;
+    text-decoration: none;
+    font: 20px;
+    border: 3px cyan solid;
+    background: #bababa;
+    padding: 5px;
+    transition: 0.1s;
+    
+}
+
+.container{
+    margin-top: 10%;
+    margin-left: 30%;
+    position: absolute;
+    background: transparent;
+}
+.button{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid white 1px;
+
+}
+.buttonx{
+    width: 50px;
+    height: 120px;
+    font-size: 30px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid white 1px;
+
+}
+.buttony{
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid white 1px;
+
+}
+
+.button:hover{
+    width: 50px;
+    height: 50px;
+    font-size: 35px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid #00FFFF 5px;
+    
+    
+}
+.buttonx:hover {
+    width: 50px;
+    height: 120px;
+    font-size: 35px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid #00FFFF 5px;
+}
+.buttony:hover{
+    width: 100px;
+    height: 50px;
+    font-size: 35px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid #00FFFF 5px;
+}
+.hasil{
+    width: 220px;
+    height: 50px;
+    color: white;
+    font-size: 35px;
+    background: #121259;
+    border: solid #00FFFF 5px;
+}
+.hasil:hover{
+    width: 220px;
+    height: 50px;
+    color: white;
+    font-size: 35px;
+    background: #0f0f4a;
+    border: solid #2684ff 5px;
+}
+
+/*CSS FOR TRIANGLE CAL*/
+
+.inputtr{
+    width: 270px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    background: #121259;
+    border: solid #00FFFF 5px;
+    margin: 5px;
+
+}
+
+.inputtr:hover{
+    width: 270px;
+    height: 50px;
+    color: white;
+    font-size: 25px;
+    background: #121259;
+    border: solid #2684ff 5px;
+}
+
+.hasiltr{
+    width: 270px;
+    height: 30px;
+    color: white;
+    font-size: 25px;
+    background: #121259;
+    border: solid #00FFFF 5px;
+    margin: 5px;
+
+}
+
+.button2{
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid white 1px;
+}
+.button2:hover{
+    width: 150px;
+    height: 50px;
+    font-size: 32px;
+    margin: 2px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+    background: #130b47;
+    border: solid #00FFFF 5px;
+}
